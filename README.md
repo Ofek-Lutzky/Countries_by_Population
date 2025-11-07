@@ -1,3 +1,6 @@
+can visit:
+https://ofek-lutzky.github.io/Countries_by_Population/output.html
+
 <img width="1060" height="828" alt="image" src="https://github.com/user-attachments/assets/3f515ba6-2ca6-4f4e-a50a-f10d0a24d5e0" />
 
 
@@ -299,3 +302,4 @@ Developed as part of a technical interview process.
 
 
 **Key Takeaway:** This project demonstrates professional-level Python development with Clean Architecture, async programming expertise, comprehensive testing, and attention to code quality.
+
